@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: shop-cart
+
+  cloud:
+    config:
+      uri: localhost:8888
